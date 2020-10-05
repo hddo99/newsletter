@@ -1,0 +1,20 @@
+{
+  "name": "newsletter-signup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jack",
+  "license": "ISC",
+  "dependencies": {
+    "@mailchimp/mailchimp_marketing": "^3.0.21",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "md5": "^2.3.0",
+    "request": "^2.88.2",
+    "require": "^2.4.20",
+    "url": "^0.11.0"
+  }
+}
